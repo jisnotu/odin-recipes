@@ -35,4 +35,6 @@ img {
 .recipe-list {
   width: 400px;
   margin: 0 auto;
+  background-color: rgb(91, 126, 57);
+  padding: 20px;
 }

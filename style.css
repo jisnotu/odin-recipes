@@ -1,5 +1,6 @@
 body {
   background-color: rgb(12, 44, 26);
+  margin: 0;
 }
 
 .center {
@@ -13,6 +14,8 @@ body {
 h1 {
   font-family: Arial, sans-serif;
   font-size: 64px;
+  background-color: rgb(72, 133, 133);
+  margin-top: 0;
 }
 
 .secondary-color {

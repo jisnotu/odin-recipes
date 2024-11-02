@@ -38,3 +38,7 @@ img {
   background-color: rgb(91, 126, 57);
   padding: 20px;
 }
+
+.recipe-link {
+  margin: 10px;
+}
